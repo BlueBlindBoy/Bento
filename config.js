@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Rudra',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -20,12 +20,12 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to sleep!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
@@ -40,27 +40,27 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Canvas',
+      icon: 'grid',
+      link: 'https://phm.instructure.com',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Khan Academy',
+      icon: 'database',
+      link: 'https://www.khanacademy.org/,
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Google Drive - School',
+      icon: 'cloud',
+      link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Google Drive',
+      icon: 'cloud',
+      link: 'https://drive.google.com/drive/u/0/',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Notion',
+      icon: 'file-text',
+      link: 'https://notion.so',
     },
   ],
 
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'toggle-left',
+  secondListIcon: 'toggle-right',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP Chemistry',
+        link: 'https://www.khanacademy.org/science/ap-chemistry-beta',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP Calculus BC',
+        link: 'https://www.khanacademy.org/math/ap-calculus-bc',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP Statistics',
+        link: 'https://www.khanacademy.org/math/ap-statistics',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'SAT',
+        link: 'https://www.khanacademy.org/mission/sat',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Ranobes',
+        link: 'https://ranobes.net/,
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'To Learn',
+        link: 'https://www.youtube.com/playlist?list=PLckz1DxZN2h0ASRJ6TfYMExMSM4HFSMwc',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'MangaDex',
+        link: 'https://mangadex.org/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Watch',
+        link: 'https://animixplay.to/',
       },
     ],
   },
