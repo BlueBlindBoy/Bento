@@ -40,27 +40,27 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Canvas',
-      icon: 'grid',
-      link: 'https://phm.instructure.com',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/',
     },
     {
       id: '2',
-      name: 'KhanAcademy',
-      icon: 'database',
-      link: 'https://www.khanacademy.org/,
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.protonmail.com/',
     },
     {
       id: '3',
-      name: 'GoogleDriveSchool',
-      icon: 'file',
-      link: 'https://drive.google.com/drive/u/1/my-drive',
+      name: 'Todoist',
+      icon: 'trello',
+      link: 'https://calendar.google.com/calendar/r',
     },
     {
       id: '4',
-      name: 'GoogleDrive',
-      icon: 'file',
-      link: 'https://drive.google.com/drive/u/0/',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'https://calendar.google.com/calendar/r',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Notion',
-      icon: 'file-text',
-      link: 'https://notion.so',
+      name: 'Odysee',
+      icon: 'youtube',
+      link: 'https://odysee.com/',
     },
   ],
 
