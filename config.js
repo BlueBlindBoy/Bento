@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Rudra',
+  name: 'John',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'a3667545a87c7816bb659ca224d0f4a1',
+  weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -40,7 +40,7 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',:
+      name: 'Github',
       icon: 'github',
       link: 'https://github.com/',
     },
