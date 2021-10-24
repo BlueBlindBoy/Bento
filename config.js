@@ -110,7 +110,7 @@ const CONFIG = {
         link: 'https://ranobes.net/,
       },
       {
-        name: 'To-Learn',
+        name: 'ToLearn',
         link: 'https://www.youtube.com/playlist?list=PLckz1DxZN2h0ASRJ6TfYMExMSM4HFSMwc',
       },
       {
