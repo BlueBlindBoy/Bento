@@ -46,20 +46,20 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Khan-Academy',
+      name: 'KhanAcademy',
       icon: 'database',
       link: 'https://www.khanacademy.org/,
     },
     {
       id: '3',
-      name: 'Google-Drive-School',
-      icon: 'cloud',
+      name: 'GoogleDriveSchool',
+      icon: 'file',
       link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
-      name: 'Google-Drive',
-      icon: 'cloud',
+      name: 'GoogleDrive',
+      icon: 'file',
       link: 'https://drive.google.com/drive/u/0/',
     },
     {
