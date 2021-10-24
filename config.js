@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'a3667545a87c7816bb659ca224d0f4a1',
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -46,19 +46,19 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Khan Academy',
+      name: 'Khan-Academy',
       icon: 'database',
       link: 'https://www.khanacademy.org/,
     },
     {
       id: '3',
-      name: 'Google Drive - School',
+      name: 'Google-Drive-School',
       icon: 'cloud',
       link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
-      name: 'Google Drive',
+      name: 'Google-Drive',
       icon: 'cloud',
       link: 'https://drive.google.com/drive/u/0/',
     },
@@ -88,15 +88,15 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'AP Chemistry',
+        name: 'AP-Chemistry',
         link: 'https://www.khanacademy.org/science/ap-chemistry-beta',
       },
       {
-        name: 'AP Calculus BC',
+        name: 'AP-Calculus BC',
         link: 'https://www.khanacademy.org/math/ap-calculus-bc',
       },
       {
-        name: 'AP Statistics',
+        name: 'AP-Statistics',
         link: 'https://www.khanacademy.org/math/ap-statistics',
       },
       {
