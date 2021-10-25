@@ -85,23 +85,23 @@ const CONFIG = {
   secondListIcon: 'coffee',
 
   // Links
-  lists: {
+   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Chemistry',
+        link: 'https://www.khanacademy.org/science/ap-chemistry-beta',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Calculus BC',
+        link: 'https://www.khanacademy.org/math/ap-calculus-bc',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Statistics',
+        link: 'https://www.khanacademy.org/math/ap-statistics',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'SAT',
+        link: 'https://www.khanacademy.org/mission/sat',
       },
     ],
     secondList: [
