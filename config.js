@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Canvas',
+      icon: 'grid',
+      link: 'https://phm.instructure.com',
     },
     {
       id: '2',
