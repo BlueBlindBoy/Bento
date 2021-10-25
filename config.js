@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning,',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to sleep!',
 
   // Weather
   weatherKey: '118816cd64411e3cbbcfe4ca3586116c',
@@ -52,13 +52,13 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'SchoolDrive',
+      name: 'School Drive',
       icon: 'folder-plus',
       link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
-      name: 'PersonalDrive',
+      name: 'Personal Drive',
       icon: 'folder-minus',
       link: 'https://drive.google.com/drive/u/0/',
     },
@@ -110,7 +110,7 @@ const CONFIG = {
         link: 'https://ranobes.net/',
       },
       {
-        name: 'ToLearn',
+        name: 'To Learn',
         link: 'https://www.youtube.com/playlist?list=PLckz1DxZN2h0ASRJ6TfYMExMSM4HFSMwc',
       },
       {
