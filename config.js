@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Notion',
+      icon: 'file-text',
+      link: 'https://notion.so',
     },
   ],
 
