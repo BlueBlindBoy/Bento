@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Ranobes',
+        link: 'https://ranobes.net/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'ToLearn',
+        link: 'https://www.youtube.com/playlist?list=PLckz1DxZN2h0ASRJ6TfYMExMSM4HFSMwc',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'MangaDex',
+        link: 'https://mangadex.org/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Watch',
+        link: 'https://animixplay.to/',
       },
     ],
   },
