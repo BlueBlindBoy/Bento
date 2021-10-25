@@ -84,43 +84,43 @@ const CONFIG = {
   firstListIcon: 'music',
   secondListIcon: 'coffee',
 
-  // Links
+// Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Chemistry',
+        link: 'https://www.khanacademy.org/science/ap-chemistry-beta',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Calculus BC',
+        link: 'https://www.khanacademy.org/math/ap-calculus-bc',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'AP-Statistics',
+        link: 'https://www.khanacademy.org/math/ap-statistics',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'SAT',
+        link: 'https://www.khanacademy.org/mission/sat',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Ranobes',
+        link: 'https://ranobes.net/,
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'ToLearn',
+        link: 'https://www.youtube.com/playlist?list=PLckz1DxZN2h0ASRJ6TfYMExMSM4HFSMwc',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'MangaDex',
+        link: 'https://mangadex.org/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Watch',
+        link: 'https://animixplay.to/',
       },
     ],
   },
-};
+}; 
