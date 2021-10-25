@@ -53,13 +53,13 @@ const CONFIG = {
     {
       id: '3',
       name: 'SchoolDrive',
-      icon: 'file',
+      icon: 'folder-plus',
       link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
       name: 'PersonalDrive',
-      icon: 'file',
+      icon: 'folder-minus',
       link: 'https://drive.google.com/drive/u/0/',
     },
     {
