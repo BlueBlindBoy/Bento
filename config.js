@@ -46,9 +46,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'KhanAcademy',
+      icon: 'database',
+      link: 'https://www.khanacademy.org',
     },
     {
       id: '3',
