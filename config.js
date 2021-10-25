@@ -53,14 +53,14 @@ const CONFIG = {
     {
       id: '3',
       name: 'SchoolDrive',
-      icon: 'cloud',
+      icon: 'file',
       link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'PersonalDrive',
+      icon: 'file',
+      link: 'https://drive.google.com/drive/u/0/',
     },
     {
       id: '5',
