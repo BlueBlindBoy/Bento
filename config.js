@@ -88,15 +88,15 @@ const CONFIG = {
    lists: {
     firstList: [
       {
-        name: 'AP-Chemistry',
+        name: 'AP Chemistry',
         link: 'https://www.khanacademy.org/science/ap-chemistry-beta',
       },
       {
-        name: 'AP-Calculus BC',
+        name: 'AP Calculus BC',
         link: 'https://www.khanacademy.org/math/ap-calculus-bc',
       },
       {
-        name: 'AP-Statistics',
+        name: 'AP Statistics',
         link: 'https://www.khanacademy.org/math/ap-statistics',
       },
       {
