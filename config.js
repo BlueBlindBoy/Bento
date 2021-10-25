@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'SchoolDrive',
+      icon: 'cloud',
+      link: 'https://drive.google.com/drive/u/1/my-drive',
     },
     {
       id: '4',
