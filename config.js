@@ -32,17 +32,6 @@ const CONFIG = {
   defaultLatitude: '41.753510',
   defaultLongitude: '-86.111130',
 
-    // Autochange
-  autoChangeTheme: true,
-
-  // Autochabge by OS
-  changeThemeByOS: true,
-
-  // Autochange by hour options (24hrs format, string must be in: hh:mm)
-  // changeThemeByHour: true, // If it's true, it will use the values below:
-  // hourDarkThemeActive: '18:00', // Turn on the dark theme after this hour
-  // hourDarkThemeInactive: '07:00', // Turn off the dark theme after this hour and before the above hour
-  
 
   // Autochange
   autoChangeTheme: true,
