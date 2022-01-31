@@ -2,9 +2,9 @@
 // │││├┤ ├─┤ │ ├─┤├┤ ├┬┘
 // └┴┘└─┘┴ ┴ ┴ ┴ ┴└─┘┴└─
 
-const iconElement = document.querySelector('.weather-icon');
-const tempElement = document.querySelector('.temperature-value p');
-const descElement = document.querySelector('.temperature-description p');
+const iconElement = document.querySelector('.weatherIcon');
+const tempElement = document.querySelector('.weatherValue p');
+const descElement = document.querySelector('.weatherDescription p');
 
 // App data
 const weather = {};
@@ -69,6 +69,8 @@ function getWeather(latitude, longitude) {
 // Display Weather info
 function displayWeather() {
   iconElement.innerHTML = `<img src="assets/icons/${CONFIG.weatherIcons}/${weather.iconId}.png"/>`;
-  tempElement.innerHTML = `${weather.temperature.value}°<span class="darkfg">${tempUnit}</span>`;
+  tempElement.innerHTML = `${weather.temperature.value.toFixed(
+    0
+  )}°<span class="darkfg">${tempUnit}</span>`;
   descElement.innerHTML = weather.description;
 }

@@ -44,6 +44,17 @@ const CONFIG = {
   // hourDarkThemeInactive: '07:00', // Turn off the dark theme after this hour and before the above hour
   
 
+  // Autochange
+  autoChangeTheme: true,
+
+  // Autochabge by OS
+  changeThemeByOS: false, 
+
+  // Autochange by hour options (24hrs format, string must be in: hh:mm)
+  changeThemeByHour: true,
+  hourDarkThemeActive: '18:30',
+  hourDarkThemeInactive: '07:00',
+
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
   // └─┘┴ ┴┴└──┴┘└─┘
@@ -67,6 +78,9 @@ const CONFIG = {
       name: 'School Drive',
       icon: 'folder-plus',
       link: 'https://drive.google.com/drive/u/1/my-drive',
+      name: 'Todoist',
+      icon: 'trello',
+      link: 'https://todoist.com',
     },
     {
       id: '4',
@@ -77,7 +91,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'bookmark',
+      icon: 'glasses',
       link: 'https://reddit.com',
     },
     {

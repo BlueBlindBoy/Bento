@@ -9,6 +9,10 @@
   <a href="https://migueravila.github.io/Bento/" target="_blank" style='margin-right:0px; margin-top:5px'>
     <img align="center" src="https://github.com/migueravila/Bento/blob/master/assets/img/live.png" alt="live-preview" height="35px" />
   </a> 
+
+  <a href="https://github.com/migueravila/Bento/blob/master/README-ES-MX.md" target="_blank" style='margin-right:0px; margin-top:5px'>
+    <img align="center" src="https://github.com/migueravila/Bento/blob/master/assets/img/spanish.png" alt="live-preview" height="35px" />
+  </a> 
 </p>
 
 <br />
@@ -25,6 +29,7 @@
   - [📑 List Links](#-list-links)
   - [⛈️ Weather: Api Key, Icons and Unit](#️-weather-api-key-icons-and-unit)
   - [💛 Colors](#-colors)
+  - [🌑 Auto change theme](#-auto-change-theme)
 
 
 ## ✨ Features
@@ -224,6 +229,24 @@ In the `app.css` file you can change the variables for both themes (Dark and Lig
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
 }
+```
+
+### 🌑 Auto change theme
+
+The theme can be automatically changed by the OS' current theme or personalized hours
+that you can change in the `config.js` file:
+
+```js
+  // Autochange
+  autoChangeTheme: true,
+
+  // Autochabge by OS
+  changeThemeByOS: false, 
+
+  // Autochange by hour options (24hrs format, string must be in: hh:mm)
+  changeThemeByHour: true, // If it's true, it will use the values below:
+  hourDarkThemeActive: '18:30', // Turn on the dark theme after this hour
+  hourDarkThemeInactive: '07:00', // Turn off the dark theme after this hour and before the above hour
 ```
 
 ![](assets/img/subheader.png)

@@ -74,4 +74,4 @@ if (CONFIG.changeThemeByHour && CONFIG.autoChangeTheme && !CONFIG.changeThemeByO
   } else if (currentTime >= CONFIG.hourDarkThemeInactive) {
     disableDark();
   }
-}=
+}
