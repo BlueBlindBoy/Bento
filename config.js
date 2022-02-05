@@ -67,9 +67,6 @@ const CONFIG = {
       name: 'School Drive',
       icon: 'folder-plus',
       link: 'https://drive.google.com/drive/u/1/my-drive',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
     },
     {
       id: '4',
