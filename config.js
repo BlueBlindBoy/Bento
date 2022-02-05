@@ -37,7 +37,7 @@ const CONFIG = {
   autoChangeTheme: true,
 
   // Autochabge by OS
-  changeThemeByOS: false, 
+  changeThemeByOS: true, 
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: true,
