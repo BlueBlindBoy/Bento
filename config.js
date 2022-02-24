@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'KhanAcademy',
-      icon: 'database',
-      link: 'https://www.khanacademy.org',
+      name: 'News',
+      icon: 'globe',
+      link: 'https://news.google.com/u/1/foryou?hl=en-US&gl=US&ceid=US%3Aen',
     },
     {
       id: '3',
