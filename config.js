@@ -60,7 +60,7 @@ const CONFIG = {
       id: '2',
       name: 'News',
       icon: 'globe',
-      link: 'https://news.google.com/u/1/foryou?hl=en-US&gl=US&ceid=US%3Aen',
+      link: 'https://news.google.com',
     },
     {
       id: '3',
