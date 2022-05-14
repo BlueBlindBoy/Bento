@@ -7,12 +7,13 @@
 /*
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 */
+@import url('https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff');
 
 /* V A R I A B L E S */
 
 :root {
   /* Fonts  */
-  --fsg: font-family: -apple-system-headline; /* Time and Greetings */
+  --fsg: 12vh; /* Time and Greetings */
   --fsm: 8vh; /* Date */
   --fss: 3vh; /* Greetings and Weather widger */
   --fses: 2vh; /* Links List */
